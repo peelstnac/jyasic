@@ -1,0 +1,24 @@
+{
+  "name": "jyasic",
+  "version": "1.0.0",
+  "description": "just your average space invaders clone.",
+  "main": "bullet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peelstnac/jyasic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peelstnac/jyasic/issues"
+  },
+  "homepage": "https://github.com/peelstnac/jyasic#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
